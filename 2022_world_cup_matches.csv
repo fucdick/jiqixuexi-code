@@ -1,0 +1,65 @@
+ID,Year,Date,Stage,Home Team,Away Team,Host Team
+1,2022,2022/11/20,Group stage,卡塔尔,厄瓜多尔,TRUE
+2,2022,2022/11/21,Group stage,塞内加尔,荷兰,FALSE
+3,2022,2022/11/21,Group stage,英格兰,伊朗,FALSE
+4,2022,2022/11/21,Group stage,美国,威尔士,FALSE
+5,2022,2022/11/22,Group stage,法国,澳大利亚,FALSE
+6,2022,2022/11/22,Group stage,丹麦,突尼斯,FALSE
+7,2022,2022/11/22,Group stage,墨西哥,波兰,FALSE
+8,2022,2022/11/22,Group stage,阿根廷,沙特阿拉伯,FALSE
+9,2022,2022/11/23,Group stage,比利时,加拿大,FALSE
+10,2022,2022/11/23,Group stage,西班牙,哥斯达黎加,FALSE
+11,2022,2022/11/23,Group stage,德国,日本,FALSE
+12,2022,2022/11/23,Group stage,摩洛哥,克罗地亚,FALSE
+13,2022,2022/11/24,Group stage,瑞士,喀麦隆,FALSE
+14,2022,2022/11/24,Group stage,乌拉圭,韩国,FALSE
+15,2022,2022/11/24,Group stage,葡萄牙,加纳,FALSE
+16,2022,2022/11/24,Group stage,巴西,塞尔维亚,FALSE
+17,2022,2022/11/25,Group stage,伊朗,威尔士,FALSE
+18,2022,2022/11/25,Group stage,卡塔尔,塞内加尔,TRUE
+19,2022,2022/11/25,Group stage,荷兰,厄瓜多尔,FALSE
+20,2022,2022/11/25,Group stage,英格兰,美国,FALSE
+21,2022,2022/11/26,Group stage,突尼斯,澳大利亚,FALSE
+22,2022,2022/11/26,Group stage,波兰,沙特阿拉伯,FALSE
+23,2022,2022/11/26,Group stage,法国,丹麦,FALSE
+24,2022,2022/11/26,Group stage,阿根廷,墨西哥,FALSE
+25,2022,2022/11/27,Group stage,日本,哥斯达黎加,FALSE
+26,2022,2022/11/27,Group stage,比利时,摩洛哥,FALSE
+27,2022,2022/11/27,Group stage,克罗地亚,加拿大,FALSE
+28,2022,2022/11/27,Group stage,西班牙,德国,FALSE
+29,2022,2022/11/28,Group stage,塞尔维亚,喀麦隆,FALSE
+30,2022,2022/11/28,Group stage,韩国,加纳,FALSE
+31,2022,2022/11/28,Group stage,巴西,瑞士,FALSE
+32,2022,2022/11/28,Group stage,葡萄牙,乌拉圭,FALSE
+33,2022,2022/11/29,Group stage,英格兰,威尔士,FALSE
+34,2022,2022/11/29,Group stage,伊朗,美国,FALSE
+35,2022,2022/11/29,Group stage,厄瓜多尔,塞内加尔,FALSE
+36,2022,2022/11/29,Group stage,卡塔尔,荷兰,TRUE
+37,2022,2022/11/30,Group stage,丹麦,澳大利亚,FALSE
+38,2022,2022/11/30,Group stage,突尼斯,法国,FALSE
+39,2022,2022/11/30,Group stage,波兰,阿根廷,FALSE
+40,2022,2022/11/30,Group stage,沙特阿拉伯,墨西哥,FALSE
+41,2022,2022/12/1,Group stage,克罗地亚,比利时,FALSE
+42,2022,2022/12/1,Group stage,加拿大,摩洛哥,FALSE
+43,2022,2022/12/1,Group stage,日本,西班牙,FALSE
+44,2022,2022/12/1,Group stage,哥斯达黎加,德国,FALSE
+45,2022,2022/12/2,Group stage,加纳,乌拉圭,FALSE
+46,2022,2022/12/2,Group stage,韩国,葡萄牙,FALSE
+47,2022,2022/12/2,Group stage,塞尔维亚,瑞士,FALSE
+48,2022,2022/12/2,Group stage,巴西,喀麦隆,FALSE
+49,2022,2022/12/3,Round of 16,1A,2B,
+50,2022,2022/12/3,Round of 16,1C,2D,
+51,2022,2022/12/4,Round of 16,1B,2A,
+52,2022,2022/12/4,Round of 16,1D,2C,
+53,2022,2022/12/5,Round of 16,1E,2F,
+54,2022,2022/12/5,Round of 16,1G,2H,
+55,2022,2022/12/6,Round of 16,1F,2E,
+56,2022,2022/12/6,Round of 16,1H,2G,
+57,2022,2022/12/9,Quarter-finals,W49,W50,
+58,2022,2022/12/9,Quarter-finals,W53,W54,
+59,2022,2022/12/10,Quarter-finals,W51,W52,
+60,2022,2022/12/10,Quarter-finals,W55,W56,
+61,2022,2022/12/13,Semi-finals,W57,W58,
+62,2022,2022/12/14,Semi-finals,W59,W60,
+63,2022,2022/12/17,Third place,L61,L62,
+64,2022,2022/12/18,Final,W61,W62,
